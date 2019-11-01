@@ -1,5 +1,3 @@
-## Le mot de passe maître
-
 Première étape, cruciale étape : la création de votre mot de passe maître. Ce sera le dernier mot de passe que vous autrez à retenir pour sécuriser votre utilisation d'Internet.
 
 Il vous servira :
@@ -24,3 +22,5 @@ Exemples :
 - Gebek,Tubedis29; (**98 bits**)
 
 Voilà, je pense que vous avez compris le principe. Ce type de mot de passe, à la fois long et facile à retenir, est suffisamment sécurisé pour une utilisation quotidienne. Si vous êtes journaliste sur des sujets sensibles ou activiste politique, il faudra certainement monter à plus de 100 bits pour éviter des attaques plus sérieuses.
+
+> Dernière mise à jour de cette section : {docsify-updated}

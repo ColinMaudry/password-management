@@ -2,6 +2,10 @@
 
 Guide pour une gestion des mots de passe sûre, gratuite et accessible à tous et toutes.
 
+## Docsify
+
+Ce guide est publié grâce à [Docsify](https://docsify.js.org/#/).
+
 # Licence
 
 Ce guide est publié selon les termes de la licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
