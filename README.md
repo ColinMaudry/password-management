@@ -8,7 +8,7 @@ Vous pouvez consultez la dernière version à cette adresse : https://colinmaudr
 
 Ce projet en est à ses balbutiements, les contributions sont les bienvenues !
 
-## Docsify
+# Docsify
 
 Ce guide est publié grâce à [Docsify](https://docsify.js.org/#/).
 
@@ -17,3 +17,10 @@ Ce guide est publié grâce à [Docsify](https://docsify.js.org/#/).
 Ce guide est publié selon les termes de la licence [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 Pour attribuer la paternité de ce guide, merci d'ajouter un lien vers ce dépôt.
+
+# Notes de version
+
+## 0.1.0
+
+- Contenu initial, incomplet
+- Configuration de Docsify
