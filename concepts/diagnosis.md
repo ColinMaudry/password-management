@@ -1,5 +1,3 @@
-## Diagnostic : c'est pas fameux !
-
 Avant de rentrer dans le vif du sujet, je vais décrire la situation dans laquelle se trouvent de nombreuses personnes et pourquoi c'est problématique :
 
 - elles oublient souvent leurs mots de passe et doivent les recréer fréquemment
@@ -8,3 +6,5 @@ Avant de rentrer dans le vif du sujet, je vais décrire la situation dans laquel
 - l'inscription à un service, et donc la création d'un nouveau mot de passe, est un casse-tête, ce qui décourage beaucoup de personnes d'utiliser de nouveau services en ligne
 
 Si vous vous retrouvez dans une ou plusieurs de ces situations, vous avez frappé à la bonne porte ;-)
+
+> Dernière mise à jour de cette section : {docsify-updated}

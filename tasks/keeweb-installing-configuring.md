@@ -1,5 +1,3 @@
-## Installer et configurer KeeWeb
-
 1. Rendez-vous sur [keeweb.info](https://keeweb.info) et cliquez sur "Download KeeWeb"
 2. Exécutez le fichier téléchargé et suivez les instructions d'installation
 3. Une fois installé, ouvrez KeeWeb
