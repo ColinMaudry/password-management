@@ -4,5 +4,7 @@
 - [Le mot de passe maître](concepts/master-password.md)
 - KeeWeb
   - [Introduction](concepts/keeweb.md)
-  - [Installer et configurer Keeweb](tasks/keeweb-installing-configuring.md)
-- [Contribuer à ce guide](./CONTRIBUTE.md)
+  - [Installer Keeweb](tasks/keeweb-installing.md)
+- [Modèle de menace](concepts/threat-model.md)
+- [Foire aux questions](concepts/faq.md)
+- [Contribuer à ce guide](./CONTRIBUTING.md)
