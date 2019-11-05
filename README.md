@@ -18,6 +18,13 @@ Ce guide est publié selon les termes de la licence [CC-BY-SA 4.0](https://creat
 
 Pour attribuer la paternité de ce guide, merci d'ajouter un lien vers ce dépôt.
 
+# Contact
+
+Vous pouvez me contacter
+
+- par email : colin@maudry.com
+- sur Twitter : [@col1m](https://twitter.com/col1m)
+
 # Notes de version
 
 ## 0.1.0
