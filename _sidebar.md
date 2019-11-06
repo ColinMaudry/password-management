@@ -8,6 +8,7 @@
   - [Créer une nouvelle base](tasks/keeweb-creating-new-database.md)
   - [Ouvrir une base existante](tasks/keeweb-opening-database.md)
   - [Ajouter un mot de passe](tasks/keeweb-adding-password.md)
+  - [Rechercher un mot de passe](tasks/keeweb-search-password.md)
 - [Modèle de menace](concepts/threat-model.md)
 - [Foire aux questions](concepts/faq.md)
 - [Contribuer à ce guide](./CONTRIBUTING.md)
