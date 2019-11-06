@@ -29,6 +29,6 @@ Il s'agit du nom qui doit être tapé avant le mot de passe. Souvent, il s'agit 
     1. Tapez ou collez le mot de passe
     2. Appuyez sur la touche `Entrée ⤶`
 
-L'entrée de ce mot de passe est créée dans votre base et votre base a été sauvegardée automatiquement.
+L'entrée de ce mot de passe est créée et votre base a été sauvegardée automatiquement.
 
 > Dernière mise à jour de cette section : {docsify-updated}
