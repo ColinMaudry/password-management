@@ -8,6 +8,6 @@ Dans KeeWeb, lorsque vous faites une recherche, le logiciel va cherche non seule
 
 > Le logiciel va cherche non seulement dans les titres des entrées de mots de passe, mais également dans les noms d'utilisateur
 
-Les résultats de recherche s'affichent directement.
+Les résultats de recherche s'affichent directement. Vous pouvez ainsi sélectionner une entrée et [utiliser le mot de passe](tasks/keeweb-use-password.md).
 
 > Dernière mise à jour de cette section : {docsify-updated}
