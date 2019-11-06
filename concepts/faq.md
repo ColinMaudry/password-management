@@ -14,3 +14,5 @@ Il est prévu d'ajouter une section mentionnant des alternatives viables à KeeW
 Ce guide a pour objectif d'assurer un bon niveau de sécurité des mots de passe de façon à pouvoir déjouer les risques décrits dans notre [modèle de menace](concepts/threat-model.md) tout en rendant la mise en place et la gestion des mots de passe accessibles à des personnes ayant des compétences et un intérêt limité pour l'informatique.
 
 Si vous pensez que la méthode décrite n'est pas assez sûre compte tenu de notre modèle de menace, votre [contribution](CONTRIBUTING.md) est la bienvenue.
+
+> Dernière mise à jour de cette section : {docsify-updated}
