@@ -22,11 +22,12 @@ L'objectif du titre est qu'il vous permette de retrouver facilement cette entré
 Il s'agit du nom qui doit être tapé avant le mot de passe. Souvent, il s'agit de votre adresse email ou bien d'un pseudonyme (ex : cpignon).
 
 5. Cliquez dans le champ **Mot de passe**
-6. Cliquez sur l'icône en forme d'éclair
-
-Le menu de génération de mot de passe apparaît.
-
-7. Cliquez sur **OK**
+  - s'il s'agit d'un nouveau mot de passe
+    1. Cliquez sur l'icône en forme d'éclair
+    2. Cliquez sur OK
+  - s'il s'agit d'un mot de passe existant que vous souhaitez ajouter à votre base
+    1. Tapez ou collez le mot de passe
+    2. Appuyez sur la touche `Entrée ⤶`
 
 L'entrée de ce mot de passe est créée dans votre base et votre base a été sauvegardée automatiquement.
 
