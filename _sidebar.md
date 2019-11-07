@@ -1,6 +1,4 @@
 - [Introduction](concepts/introduction.md)
-- [Diagnostic](concepts/diagnosis.md)
-- [La solution, en deux mots](concepts/solution-summary.md)
 - [Le mot de passe maître](concepts/master-password.md)
 - KeeWeb
   - [Introduction](concepts/keeweb.md)
