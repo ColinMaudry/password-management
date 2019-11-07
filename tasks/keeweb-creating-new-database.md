@@ -6,11 +6,11 @@
 
 1. Depuis le menu principal, cliquez sur **+ Nouveau**.
 
-> Si KeeWeb est ouvert mais que vous n'êtes pas au menu principal, appuyez sur la combinaison de touches `Ctrl + O`.
+> Si KeeWeb est ouvert mais que vous n'êtes pas au menu principal, appuyez sur la combinaison de touches `Ctrl` `O`.
 
 L'interface de gestion des mots de passe apparaît.
 
-2. Ouvrez les paramètres avec `Ctrl + ,` (Ctrl et virgule), ou en cliquant en bas à droite sur l'icône de roue crantée, à côté du **?**.
+2. Ouvrez les paramètres avec `Ctrl` `,` (Ctrl et virgule), ou en cliquant en bas à droite sur l'icône de roue crantée, à côté du **?**.
 3. Dans le menu de gauche, cliquez sur **Nouveau**
 4. Sous Mot de passe principal, entrez votre [mot de passe maître](concepts/master-password.md).
 

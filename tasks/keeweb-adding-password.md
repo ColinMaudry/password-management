@@ -6,7 +6,7 @@
 ## Instructions
 
 1. Ouvrez KeeWeb et votre base de mots de passe ([comment ?](tasks/keeweb-opening-database.md)).
-2. En haut de la fenêtre, cliquez sur **+** et **Entrée**, ou bien appuyez sur la combinaison de touches `Alt + N`.
+2. En haut de la fenêtre, cliquez sur **+** et **Entrée**, ou bien appuyez sur la combinaison de touches `Alt` `N`.
 
 Une nouvelle entrée de mot de passe sans titre est créée.
 
