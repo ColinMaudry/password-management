@@ -1,5 +1,7 @@
 KeeWeb ([keeweb.info](https://keeweb.info)) est un logiciel de gestion de mots de passe gratuit et [libre](https://fr.wikipedia.org/wiki/Logiciel_libre). Le site Web est en anglais, mais le logiciel peut être configuré pour être en français, en anglais ou en allemand.
 
+![Capture d'écran de Keeweb](../_media/keeweb.png)
+
 En plus des caractéristiques ci-dessus, KeeWeb a été choisi pour ce guide en raison de sa simplicité d'utilisation et de la possibilité de l'installer aussi bien sous Windows, sous Mac ou sous Linux (paquet DEB).
 
 Enfin, il utilise le format de fichier kdbx, qui, avec la popularité du logiciel [KeePass](https://keepass.info/), est devenu un format supporté par de nombreux logiciels de gestion de mots de passse. Utiliser un logiciel supportant ce format, comme KeeWeb, vous permet de migrer facilement vos mots de passe vers un autre logiciel si vous souhaitez en changer.
