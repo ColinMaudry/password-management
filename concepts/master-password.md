@@ -9,18 +9,18 @@ L'ANSSI (agence de sécurité informatique de l'État) propose [des conseils et 
 
 - long : minimum 12 caractères
 - complexe : utilisant plusieurs types de caractères (lettres minuscules, majuscules, chiffres, idéalement des caractères spéciaux)
-- unique : ne pas utiliser de mots qui existent dans la composition du mot de passe
+- unique : ne pas utiliser de mots du dictionnaire dans la composition du mot de passe
 
 Vous n'aurez plus qu'un mot de passe à retenir, autant qu'il soit costaud ! Il est conseillé d'utiliser des néologismes dont vous vous souviendrez de la "musique".
 
 Exemples de mots de passe forts :
 
-- `tidiBazumof251` (seulement 3 types de caractères, mais 14 caractères de long = **83 bits**)
 - `,Poupor8Lamo` (4 types de caractères, 12 caractères = **86 bits**, parfait !)
-- `65TumekObrel` (3 types de caractères, 12 caractères = **77 bits**, pas mal)
+- `65TumekObrely` (3 types de caractères, 13 caractères = **77 bits**, pas mal)
+- `tidiBazumof251` (seulement 3 types de caractères, mais 14 caractères de long = **83 bits**)
 
 Voilà, je pense que vous avez compris le principe. Ce type de mot de passe, à la fois long et facile à retenir, est suffisamment sécurisé pour une utilisation quotidienne.
 
-Si vous êtes journaliste sur des sujets sensibles ou activiste politique, il faudra certainement monter à plus de 100 bits pour éviter des attaques plus sérieuses.
+Si vous êtes journaliste sur des sujets sensibles ou activiste politique, il faudra certainement monter à 100 bits.
 
 > Dernière mise à jour de cette section : {docsify-updated}

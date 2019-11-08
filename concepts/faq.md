@@ -1,6 +1,6 @@
 ### Pourquoi ne pas recommander X au lieu de KeeWeb ?
 
-Nous avons jugé que KeeWeb remplissait l'ensemble des pré-requis suivants :
+J'ai jugé que KeeWeb remplissait l'ensemble des pré-requis suivants :
 
 - multi-OS
 - multilingue

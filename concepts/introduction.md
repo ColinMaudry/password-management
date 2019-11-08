@@ -6,7 +6,7 @@ Enfin, cette méthode peut être utilisée indifféremment par les utilisateurs 
 
 Ce guide ne couvre cependant pas :
 
-- l'accès à vos mots de passe non-Web sur votre téléphone portable
+- l'accès à vos mots de passe non-Web sur votre appareils mobiles
 
 ## Diagnostic
 
@@ -23,7 +23,7 @@ Si vous vous retrouvez dans une ou plusieurs de ces situations, ce guide devrait
 
 Voici un résumé de la méthode documentée dans ce guide pour simplifier la gestion de vos mots de passe :
 
-1. En les stockant dans un fichier chiffré ([voir Wikipedia](https://fr.wikipedia.org/wiki/Chiffrement)), protégé par un mot de passe fort (ce guide [vous explique](concepts/master-password.md) comment le créer). Ainsi, vous n'avez plus qu'un seul mot de passe à retenir !
+1. En les stockant dans un fichier chiffré ([voir Wikipedia](https://fr.wikipedia.org/wiki/Chiffrement)), protégé par un mot de passe fort. Ainsi, vous n'avez plus qu'un seul mot de passe à retenir !
 2. En éditant ce fichier avec [KeeWeb](https://keeweb.info/) (gratuit, libre et open source), qui vous permet de facilement gérer vos mots de passe et en créer de nouveaux
 3. En synchronisant vos mots de passe entre vos appareils
 

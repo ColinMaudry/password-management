@@ -25,7 +25,7 @@ L'interface de gestion des mots de passe apparaît.
 5. Sélectionnez **Fichier**.
 6. Choisissez un emplacement où vous retrouverez facilement le fichier de votre base, par exemple votre bureau.
 
-Un nouveau fichier .kdbx est créé. C'est le fichier qui contiendra votre base de mots de passe.
+Un nouveau fichier kdbx est créé. C'est le fichier qui contiendra votre base de mots de passe.
 
 Votre base est sauvegardée automatiquement à chaque modification.
 
