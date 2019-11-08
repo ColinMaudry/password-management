@@ -13,7 +13,7 @@ KeeWeb sélectionne automatiquement la dernière base de données qui a été ou
   - si elle n'apparaît pas, cliquez sur **Ouvrir** et allez chercher votre fichier kdbx
 
 2. Une fois votre base sélectionnée, entrez le mot de passe maître.
-3. Appuyez sur la touche `Entrée ⤶`
+3. Appuyez sur la touche <kbd>Entrée ⤶</kbd>
 
 KeeWeb ouvre votre base de mots de passe, et affiche l'interface de gestion.
 
