@@ -1,6 +1,6 @@
 # Gestion des mots de passe
 
-> Version 0.1.0
+> Version 0.2.0
 
 Guide pour une gestion des mots de passe sûre, gratuite et accessible à tous et toutes.
 
@@ -27,7 +27,13 @@ Vous pouvez me contacter
 
 # Notes de version
 
-## 0.1.0
+## 0.2.0 ()
+
+- Passage à un thème bleu sombre
+- Contenu complet pour une gestion de mot de passe basique
+- Restructuration du contenu
+
+## 0.1.0 (1/11/2019)
 
 - Contenu initial, incomplet
 - Configuration de Docsify
