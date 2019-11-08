@@ -6,7 +6,7 @@
 ## Instructions
 
 1. Ouvrez KeeWeb et votre base de mots de passe ([comment ?](tasks/keeweb-opening-database.md)).
-2. En haut de la fenêtre, cliquez sur **+** et **Entrée**, ou bien appuyez sur la combinaison de touches `Alt` `N`.
+2. En haut de la fenêtre, cliquez sur **+** et **Entrée**, ou bien appuyez sur la combinaison de touches <kbd>Alt</kbd> <kbd>N</kbd>.
 
 Une nouvelle entrée de mot de passe sans titre est créée.
 
@@ -27,7 +27,7 @@ Il s'agit du nom qui doit être tapé avant le mot de passe. Souvent, il s'agit 
     2. Cliquez sur OK
   - s'il s'agit d'un mot de passe existant que vous souhaitez ajouter à votre base
     1. Tapez ou collez le mot de passe
-    2. Appuyez sur la touche `Entrée ⤶`
+    2. Appuyez sur la touche <kbd>Entrée &#8629;</kbd>
 
 L'entrée de ce mot de passe est créée et votre base a été sauvegardée automatiquement.
 
