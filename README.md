@@ -38,4 +38,6 @@ Vous pouvez me contacter
 - Contenu initial, incomplet
 - Configuration de Docsify
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

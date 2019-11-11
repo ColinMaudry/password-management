@@ -30,4 +30,6 @@ La fenêtre des options du mot de passe principal apparaît.
 
 Le mot de passe principal est maintenant configuré.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

@@ -10,4 +10,6 @@ KeeWeb peut s'utiliser comme programme installé sur votre ordinateur ou en ouvr
 
 Ce guide s'appuie sur la [version 1.12.3](https://github.com/keeweb/keeweb/releases/tag/v1.12.3) de KeeWeb.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

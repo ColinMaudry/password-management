@@ -23,4 +23,6 @@ Voilà, je pense que vous avez compris le principe. Ce type de mot de passe, à 
 
 Si vous êtes journaliste sur des sujets sensibles ou activiste politique, il faudra certainement monter à 100 bits.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

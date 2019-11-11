@@ -22,4 +22,6 @@ Lorsque vous utilisez Firefox Sync, à aucun moment Mozilla ne peut lire vos mot
 
 Première étape : [configurer le mot de passe principal de Firefox](fr/firefox-master-password.md).
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

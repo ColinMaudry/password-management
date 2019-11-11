@@ -21,4 +21,6 @@ KeeWeb ouvre votre base de mots de passe, et affiche l'interface de gestion.
 
 ![Capture d'écran de KeeWeb](../_media/keeweb.png)
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

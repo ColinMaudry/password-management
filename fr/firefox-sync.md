@@ -56,4 +56,6 @@ Si vous n'avez pas encore de compte Firefox Sync, voici comment en créer un :
 
   Si vous possédez un autre ordinateur avec lequel vous souhaitez synchroniser vos mots de passe, vous pouvez ouvrir Firefox sur cet ordinateur et répétez les instructions de la section **Connexion à Firefox Sync**.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

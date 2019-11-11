@@ -6,4 +6,6 @@ Chaque fois que vous connectez à Internet un appareil sur lequel vous avez inst
 
 Dropbox n'est pas la meilleure solution lorsqu'il s'agit de stocker des données personnelles (le code informatique n'est pas ouvert, le données sont hébergées aux États-Unis), mais votre fichier de mots de passe étant chiffré, même si Dropbox est indiscret ou se fait voler votre fichier, il est quasiment impossible de déchiffrer ce fichier sans le mot de passe. Si votre mot de passe est suffisamment fort, même la CIA aura des difficultés à le trouver.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

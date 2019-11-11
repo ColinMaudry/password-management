@@ -27,4 +27,6 @@ Voici un résumé de la méthode documentée dans ce guide pour simplifier la ge
 
 Ce guide a été rédigé pour que vous lisiez les chapitres dans l'ordre dans lequel ils vous sont présentés dans le menu de gauche. Le prochaine étape est donc de définir [votre mot de passe maître](fr/master-password.md).
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

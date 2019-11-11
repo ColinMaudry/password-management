@@ -19,4 +19,6 @@ Si vous pensez que la méthode décrite n'est pas assez sûre compte tenu de not
 
 Vous avez un compte Github et vous vous y connaissez en gestion de mots de passe ? D'autres questions pourraient alimenter cette liste [ici](https://github.com/ColinMaudry/password-management/labels/faq). Vous pouvez aussi en proposer d'autres.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

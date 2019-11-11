@@ -47,4 +47,6 @@ Si c'est un mot de passe existant que vous souhaitez ajouter à KeeWeb :
 
 L'entrée de ce mot de passe est créée et votre base a été sauvegardée automatiquement.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

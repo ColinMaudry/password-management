@@ -35,4 +35,6 @@ Un nouveau fichier kdbx est créé. C'est le fichier qui contiendra votre base d
 
 Votre base est sauvegardée automatiquement à chaque modification.
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

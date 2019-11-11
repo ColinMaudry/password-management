@@ -10,4 +10,6 @@ Dans KeeWeb, lorsque vous faites une recherche, le logiciel va cherche non seule
 
 Les résultats de recherche s'affichent directement. Vous pouvez ainsi sélectionner une entrée et [utiliser le mot de passe](fr/keeweb-use-password.md).
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*

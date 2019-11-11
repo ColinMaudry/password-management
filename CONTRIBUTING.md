@@ -24,4 +24,6 @@ Merci de travailler à partir de la branche `develop`.
 
 Ce projet utilise la méthode [Git Flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
-> Dernière mise à jour de cette section : {docsify-updated}
+---
+
+*Dernière mise à jour de cette section : {docsify-updated}*
