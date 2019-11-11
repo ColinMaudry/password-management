@@ -21,7 +21,7 @@ Si vous vous retrouvez dans une ou plusieurs de ces situations, ce guide devrait
 
 Voici un résumé de la méthode documentée dans ce guide pour simplifier la gestion de vos mots de passe :
 
-1. En stockant un mot de passe différent pour chaque service (compte email, magasin en ligne, banque en ligne, etc.) dans un fichier chiffré ([voir Wikipedia](https://fr.wikipedia.org/wiki/Chiffrement)), protégé par un mot de passe fort. Ainsi, vous n'avez plus qu'un seul mot de passe à retenir !
+1. En stockant un mot de passe différent pour chaque service (compte email, magasin en ligne, banque, etc.) dans un fichier chiffré ([voir Wikipedia](https://fr.wikipedia.org/wiki/Chiffrement)), protégé par un mot de passe fort. Ainsi, vous n'avez plus qu'un seul mot de passe à retenir !
 2. En éditant ce fichier avec [KeeWeb](https://keeweb.info/) (gratuit et [libre](https://fr.wikipedia.org/wiki/Logiciel_libre)), qui vous permet de facilement gérer vos mots de passe et en créer de nouveaux
 3. En synchronisant vos mots de passe entre vos appareils (à venir)
 
