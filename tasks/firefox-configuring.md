@@ -21,13 +21,13 @@ Si vous n'avez pas encore de compte Firefox, voici comment en créer un :
 
   9. Cliquez sur **Créer un compte**.
 
-  > Un formulaire de vérification apparaît, pour s'assurer que vous êtes bien le ou la propriétaire de l'adresse email saisie.
+  Un formulaire de vérification apparaît, pour s'assurer que vous êtes bien le ou la propriétaire de l'adresse email saisie.
 
   10. Ouvrez votre boîte mail et ouvrez le mail intitulé "Code de vérification".
   11. Cet email contient un code. Tapez ou copiez/collez le code dans le formulaire de vérification.
   12. Cliquez sur **Vérifier**.
 
-  > Votre compte Firefox a été créé.
+  Votre compte Firefox a été créé.
 
 ### Connexion à Firefox Sync
 
@@ -38,7 +38,7 @@ Si vous n'avez pas encore de compte Firefox, voici comment en créer un :
 
   3. Cliquez sur **Se connecter à Firefox / Activer Sync**.
   4. Si votre adresse email n'est pas remplie, tapez votre adresse email dans le champ **Adresse électronique**, et cliquez sur **Continuer**.
-  5. Allez chercher le mot de passe que vous avez créé pour Firefox Sync dans Keepass, et collez-le (<kbd>Ctrl</kbd> <kbd>V</kbd>) dans le champ **Mot de passe** ([comment ?](tasks/keeweb-using-password.md)).
+  5. Allez chercher le mot de passe que vous avez créé pour Firefox Sync dans Keepass, et collez-le (<kbd>Ctrl</kbd><kbd>V</kbd>) dans le champ **Mot de passe** ([comment ?](tasks/keeweb-using-password.md)).
   6. Cliquez sur **Connexion**.
 
   Le navigateur Firefox installé sur votre ordinateur va maintenant synchroniser vos mots de passe avec votre compte Firefox.

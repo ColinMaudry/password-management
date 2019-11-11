@@ -8,7 +8,7 @@ Aujourd'hui, tous les navigateurs Web proposent de sauvegarder vos mots de passe
 
 Afin de vous permettre de synchroniser vos mots de passe et vos préférences entre vos différents appareils, Firefox propose Firefox Sync, un compte en ligne sur lequel vous pouvez sauvegarder vos mots de passe ainsi que d'autres informations. Ainsi, que vous utilisiez Firefox sur votre ordinateur ou votre téléphone, vous avez toujours accès à vos mots de passe.
 
-> Lorsque vous utilisez Firefox Sync, à aucun moment Mozilla ne peut lire vos mots de passe car ils sont chiffrés sur votre ordinateur avec votre mot de passe maître avant d'être envoyés sur les serveurs de Mozilla.
+Lorsque vous utilisez Firefox Sync, à aucun moment Mozilla ne peut lire vos mots de passe car ils sont chiffrés sur votre ordinateur avec votre mot de passe maître avant d'être envoyés sur les serveurs de Mozilla.
 
 Première étape : [créer votre compte et configurer Firefox](tasks/firefox-configuring.md).
 
