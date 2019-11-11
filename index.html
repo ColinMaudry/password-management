@@ -24,7 +24,7 @@
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
         (function() {
-        var u="//analytics.maudry.com/";
+        var u="https://analytics.maudry.com/";
         _paq.push(['setTrackerUrl', u+'matomo.php']);
         _paq.push(['setSiteId', '12']);
         var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
@@ -44,9 +44,19 @@
       autoHeader: true,
       auto2top: true,
       formatUpdated: '{DD}/{MM}/{YYYY} {HH}:{mm}',
-      notFoundPage: true
+      notFoundPage: true,
+      tabs: {
+        persist    : false,
+        sync       : false,
+        theme      : 'classic',
+        tabComments: false,
+        tabHeadings: true       // default
+        }
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="https://unpkg.com/docsify/lib/docsify.min.js"></script>
+  <!-- Not needed yet
+
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script> -->
 </body>
 </html>
