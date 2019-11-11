@@ -18,6 +18,6 @@ Afin de vous permettre de synchroniser vos mots de passe et vos préférences en
 
 Lorsque vous utilisez Firefox Sync, à aucun moment Mozilla ne peut lire vos mots de passe car ils sont chiffrés sur votre ordinateur avec votre mot de passe maître avant d'être envoyés sur les serveurs de Mozilla.
 
-Première étape : [configurer le mot de passe principal de Firefox](fr/firefox-configuring-master-password.md).
+Première étape : [configurer le mot de passe principal de Firefox](fr/firefox-master-password.md).
 
 > Dernière mise à jour de cette section : {docsify-updated}
