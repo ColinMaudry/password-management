@@ -16,6 +16,7 @@
 - Firefox
 
   - [Introduction](concepts/firefox.md)
+  - [Configurer Firefox](tasks/firefox-configuring.md)
 
 - [Foire aux questions](concepts/faq.md)
 - [Contribuer à ce guide](./CONTRIBUTING.md)
