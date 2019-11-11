@@ -9,8 +9,8 @@
   - [Créer une nouvelle base](tasks/keeweb-creating-new-database.md)
   - [Ouvrir une base existante](tasks/keeweb-opening-database.md)
   - [Ajouter un mot de passe](tasks/keeweb-adding-password.md)
-  - [Rechercher un mot de passe](tasks/keeweb-search-password.md)
-  - [Utiliser un mot de passe](tasks/keeweb-use-password.md)
+  - [Rechercher un mot de passe](tasks/keeweb-searching-password.md)
+  - [Utiliser un mot de passe](tasks/keeweb-using-password.md)
 
 
 - Firefox
