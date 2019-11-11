@@ -15,6 +15,37 @@
       --kbd-border: 1px white solid;
       --link-color: var(--theme-color);
   }
+
+      @font-face {
+      font-family: 'icomoon';
+      src:  url('fonts/icomoon.eot?mibwax');
+      src:  url('fonts/icomoon.eot?mibwax#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?mibwax') format('truetype'),
+        url('fonts/icomoon.woff?mibwax') format('woff'),
+        url('fonts/icomoon.svg?mibwax#icomoon') format('svg');
+      font-weight: normal;
+      font-style: normal;
+      font-display: block;
+        }
+
+    [class^="icon-"], [class*=" icon-"] {
+      /* use !important to prevent issues with browser extensions that change fonts */
+      font-family: 'icomoon' !important;
+      speak: none;
+      font-style: normal;
+      font-weight: normal;
+      font-variant: normal;
+      text-transform: none;
+      line-height: 1;
+
+      /* Better Font Rendering =========== */
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    .icon-menu:before {
+      content: "\e9bd";
+    }
   </style>
 
     <!-- Matomo -->
