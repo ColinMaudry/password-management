@@ -12,6 +12,8 @@ Nous allons donc voir comment :
 - créer et ajouter ou mettre à jour un mot de passe pour un service en ligne (TODO)
 - synchroniser vos mots de passe entre vos installations de Firefox avec Firefox Sync
 
+Vous pouvez suivre ce guide sur une nouvelle installation de Firefox ou bien sur une installation de Firefox que vous utilisez déjà.
+
 ## Le compte Firefox Sync
 
 Afin de vous permettre de synchroniser vos mots de passe et vos préférences entre vos différents appareils, Firefox propose Firefox Sync, un compte en ligne sur lequel vous pouvez sauvegarder vos mots de passe ainsi que d'autres informations. Ainsi, que vous utilisiez Firefox sur votre ordinateur ou votre téléphone, vous avez toujours accès à vos mots de passe lorsque vous allez sur le Web.
