@@ -16,7 +16,7 @@ Vous pouvez [créer un issue sur Github](https://github.com/ColinMaudry/password
 
 ## Contribuer aux issues existants
 
-J'ai déjà créé [un bon paquet d'issues](https://github.com/ColinMaudry/password-management/issues) sur des questions que je me pose, du contenu qui doit être écrit. L'un d'entre vous inspirera peut-être !
+J'ai déjà créé [un bon paquet d'issues](https://github.com/ColinMaudry/password-management/issues) sur des questions que je me pose, du contenu qui doit être écrit. L'un d'entre eux vous inspirera peut-être !
 
 ## Faire une pull request
 
