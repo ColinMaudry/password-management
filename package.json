@@ -1,0 +1,19 @@
+{
+  "name": "password-management",
+  "scripts": {
+    "start": "docsify start . -c ssr.config.js",
+    "deploy": "now -p"
+  },
+  "files": [
+    "."
+  ],
+  "docsify": {
+    "config": {
+      "basePath": "https://colinmaudry.github.io/password-management/",
+      "loadSidebar": true,
+      "loadNavbar": true,
+      "coverpage": true,
+      "name": "docsify"
+    }
+  }
+}
