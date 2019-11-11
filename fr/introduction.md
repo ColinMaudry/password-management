@@ -23,6 +23,6 @@ Voici un résumé de la méthode documentée dans ce guide pour simplifier la ge
 2. En éditant ce fichier avec [KeeWeb](https://keeweb.info/) (gratuit, libre et open source), qui vous permet de facilement gérer vos mots de passe et en créer de nouveaux
 3. En synchronisant vos mots de passe entre vos appareils
 
-Ce guide a été rédigé pour que vous lisiez les chapitres dans l'ordre dans lequel ils vous sont présentés dans le menu de gauche. Le prochaine étape est donc de définir [votre mot de passe maître](concepts/master-password.md).
+Ce guide a été rédigé pour que vous lisiez les chapitres dans l'ordre dans lequel ils vous sont présentés dans le menu de gauche. Le prochaine étape est donc de définir [votre mot de passe maître](fr/master-password.md).
 
 > Dernière mise à jour de cette section : {docsify-updated}

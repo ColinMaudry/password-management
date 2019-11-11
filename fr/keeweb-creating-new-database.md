@@ -1,6 +1,6 @@
 ## Pré-requis
 
-- Vous devez avoir installé KeeWeb ([comment ?](tasks/keeweb-installing.md))
+- Vous devez avoir installé KeeWeb ([comment ?](fr/keeweb-installing.md))
 
 ## Instructions
 
@@ -12,7 +12,7 @@ L'interface de gestion des mots de passe apparaît.
 
 2. Ouvrez les paramètres avec la combinaison de touches <kbd>Ctrl</kbd> <kbd>,</kbd> (Ctrl et virgule), ou en cliquant en bas à droite sur l'icône de roue crantée, à côté du **?**.
 3. Dans le menu de gauche, cliquez sur **Nouveau**
-4. Sous Mot de passe principal, entrez votre [mot de passe maître](concepts/master-password.md).
+4. Sous Mot de passe principal, entrez votre [mot de passe maître](fr/master-password.md).
 
 > C'est le seul mot de passe que aurez à retenir. Il vous servira à ouvrir votre base et consulter vos mots de passe.
 

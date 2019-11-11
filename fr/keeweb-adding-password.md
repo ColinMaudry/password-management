@@ -1,11 +1,11 @@
 ## Pré-requis
 
-- Vous devez avoir installé KeeWeb ([comment ?](tasks/keeweb-installing.md))
-- Vous devez avoir créé une base de mots de passe sous la forme d'un fichier kdbx ([comment ?](tasks/keeweb-creating-new-database.md))
+- Vous devez avoir installé KeeWeb ([comment ?](fr/keeweb-installing.md))
+- Vous devez avoir créé une base de mots de passe sous la forme d'un fichier kdbx ([comment ?](fr/keeweb-creating-new-database.md))
 
 ## Instructions
 
-1. Ouvrez KeeWeb et votre base de mots de passe ([comment ?](tasks/keeweb-opening-database.md)).
+1. Ouvrez KeeWeb et votre base de mots de passe ([comment ?](fr/keeweb-opening-database.md)).
 2. En haut de la fenêtre, cliquez sur **+** et **Entrée**, ou bien appuyez sur la combinaison de touches <kbd>Alt</kbd> <kbd>N</kbd>.
 
 Une nouvelle entrée de mot de passe sans titre est créée.

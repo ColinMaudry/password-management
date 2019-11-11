@@ -1,7 +1,7 @@
 ## Pré-requis
 
-- Vous devez avoir installé KeeWeb ([comment ?](tasks/keeweb-installing.md)
-- Vous devez avoir créé une base de mots de passe ([comment ?](tasks/keeweb-creating-database.md
+- Vous devez avoir installé KeeWeb ([comment ?](fr/keeweb-installing.md)
+- Vous devez avoir créé une base de mots de passe ([comment ?](fr/keeweb-creating-database.md
 
 > Vous pouvez télécharger une base de démonstration [ici](https://raw.githubusercontent.com/ColinMaudry/password-management/master/demo.kdbx).
 

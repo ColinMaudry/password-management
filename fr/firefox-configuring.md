@@ -1,7 +1,7 @@
 ## Pré-requis
 
 - Vous devez avoir installé Firefox sur votre ordinateur ([site Web de Firefox](https://www.mozilla.org/fr/firefox/new/))
-- Vous devez avoir créé une base de mot de passe ([comment ?](tasks/keeweb-creating-database.md)).
+- Vous devez avoir créé une base de mot de passe ([comment ?](fr/keeweb-creating-database.md)).
 
 ## Instructions
 
@@ -13,7 +13,7 @@ Si vous n'avez pas encore de compte Firefox, voici comment en créer un :
 
   2. Rendez-vous à l'adresse [https://accounts.firefox.com/signup](https://accounts.firefox.com/signup) (cliquez sur le lien).
   5. Entrez votre adresse email dans le champ **Adresse électronique**.
-  6. Créez un nouveau mot de passe pour votre "Compte Firefox Sync" ([comment ?](tasks/keeweb-create-password.md)).
+  6. Créez un nouveau mot de passe pour votre "Compte Firefox Sync" ([comment ?](fr/keeweb-create-password.md)).
   7. Collez (<kbd>Ctrl</kbd> <kbd>V</kbd>) le nouveau mot de passe dans les champs **Mot de passe** et **Répétez le mot de passe**.
   8. Dans le champ **Quel âge avez-vous ?**, indiquez votre âge ou n'importe quel chiffre supérieur à 12.
 
@@ -38,7 +38,7 @@ Si vous n'avez pas encore de compte Firefox, voici comment en créer un :
 
   3. Cliquez sur **Se connecter à Firefox / Activer Sync**.
   4. Si votre adresse email n'est pas remplie, tapez votre adresse email dans le champ **Adresse électronique**, et cliquez sur **Continuer**.
-  5. Allez chercher le mot de passe que vous avez créé pour Firefox Sync dans Keepass, et collez-le (<kbd>Ctrl</kbd><kbd>V</kbd>) dans le champ **Mot de passe** ([comment ?](tasks/keeweb-using-password.md)).
+  5. Allez chercher le mot de passe que vous avez créé pour Firefox Sync dans Keepass, et collez-le (<kbd>Ctrl</kbd><kbd>V</kbd>) dans le champ **Mot de passe** ([comment ?](fr/keeweb-using-password.md)).
   6. Cliquez sur **Connexion**.
 
   Le navigateur Firefox installé sur votre ordinateur va maintenant synchroniser vos mots de passe avec votre compte Firefox.

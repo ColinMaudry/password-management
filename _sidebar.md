@@ -1,22 +1,22 @@
-- [Introduction](concepts/introduction.md)
-- [Le mot de passe maître](concepts/master-password.md)
+- [Introduction](fr/introduction.md)
+- [Le mot de passe maître](fr/master-password.md)
 
 
 - KeeWeb
 
-  - [Introduction](concepts/keeweb.md)
-  - [Installer Keeweb](tasks/keeweb-installing.md)
-  - [Créer une nouvelle base](tasks/keeweb-creating-new-database.md)
-  - [Ouvrir une base existante](tasks/keeweb-opening-database.md)
-  - [Ajouter un mot de passe](tasks/keeweb-adding-password.md)
-  - [Rechercher un mot de passe](tasks/keeweb-searching-password.md)
-  - [Utiliser un mot de passe](tasks/keeweb-using-password.md)
+  - [Introduction](fr/keeweb.md)
+  - [Installer Keeweb](fr/keeweb-installing.md)
+  - [Créer une nouvelle base](fr/keeweb-creating-new-database.md)
+  - [Ouvrir une base existante](fr/keeweb-opening-database.md)
+  - [Ajouter un mot de passe](fr/keeweb-adding-password.md)
+  - [Rechercher un mot de passe](fr/keeweb-searching-password.md)
+  - [Utiliser un mot de passe](fr/keeweb-using-password.md)
 
 
 - Firefox
 
-  - [Introduction](concepts/firefox.md)
-  - [Configurer Firefox](tasks/firefox-configuring.md)
+  - [Introduction](fr/firefox.md)
+  - [Configurer Firefox](fr/firefox-configuring.md)
 
-- [Foire aux questions](concepts/faq.md)
+- [Foire aux questions](fr/faq.md)
 - [Contribuer à ce guide](./CONTRIBUTING.md)
