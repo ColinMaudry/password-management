@@ -4,10 +4,6 @@ La méthode décrite est gratuite, repose sur des outils [libres](https://fr.wik
 
 Enfin, cette méthode peut être utilisée indifféremment par les utilisateurs de Linux, de Windows et des appareils Apple.
 
-Ce guide ne couvre cependant pas :
-
-- l'accès à vos mots de passe non-Web sur votre appareils mobiles
-
 ## Diagnostic
 
 Voici la situation dans laquelle se trouvent de nombreuses personnes et pourquoi c'est problématique :
