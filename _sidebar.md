@@ -16,7 +16,8 @@
 - Firefox
 
   - [Introduction](fr/firefox.md)
-  - [Configurer Firefox](fr/firefox-configuring.md)
+  - [Sécuriser les mots de passe](fr/firefox-master-password.md)
+  - [Synchroniser vos Firefox](fr/firefox-configuring.md)
 
 - [Foire aux questions](fr/faq.md)
 - [Contribuer à ce guide](./CONTRIBUTING.md)
