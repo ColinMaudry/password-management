@@ -1,3 +1,9 @@
+## Objectifs
+
+L'objectif de ce chapitre est de créer la base de mots de passe chiffrée dans laquelle vous allez sauvegarder vos mots de passe.
+
+Cette base prendra forme d'un fichier .kdbx qui pourra être ouvert avec KeeWeb.  
+
 ## Pré-requis
 
 - Vous devez avoir installé KeeWeb ([comment ?](fr/keeweb-installing.md))

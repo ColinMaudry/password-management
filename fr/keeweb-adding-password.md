@@ -22,12 +22,28 @@ L'objectif du titre est qu'il vous permette de retrouver facilement cette entré
 Il s'agit du nom qui doit être tapé avant le mot de passe. Souvent, il s'agit de votre adresse email ou bien d'un pseudonyme (ex : cpignon).
 
 5. Cliquez dans le champ **Mot de passe**
-  - s'il s'agit d'un nouveau mot de passe
-    1. Cliquez sur l'icône en forme d'éclair
-    2. Cliquez sur OK
-  - s'il s'agit d'un mot de passe existant que vous souhaitez ajouter à votre base
-    1. Tapez ou collez le mot de passe
-    2. Appuyez sur la touche <kbd>Entrée &#8629;</kbd>
+
+<!-- tabs:start -->
+
+#### **C'est un nouveau mot de passe**
+
+Si c'est un nouveau mot de passe que vous créez :
+
+  6. Cliquez sur l'icône en forme d'éclair
+
+Les options par défaut sont suffisantes pour un bon mot de passe.
+
+  7. Cliquez sur OK
+
+
+#### **C'est un mot de passe existant**
+
+Si c'est un mot de passe existant que vous souhaitez ajouter à KeeWeb :
+
+  6. Tapez ou collez le mot de passe
+  7. Appuyez sur la touche <kbd>Entrée &#8629;</kbd>
+
+<!-- tabs:end -->
 
 L'entrée de ce mot de passe est créée et votre base a été sauvegardée automatiquement.
 
