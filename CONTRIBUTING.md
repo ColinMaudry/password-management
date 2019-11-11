@@ -8,11 +8,15 @@ Si ce guide a vu le jour, c'est parce que la gestion des mots de passe est un ca
 
 ## Faire un commentaire constructif
 
-Chaque page du guide propose une zone vous permettant de laisser un commentaire sur le contenu de la page. Si vous trouvez que quelque chose pourrait être amélioré, faites le nous savoir dans un commentaire.
+Chaque page du guide propose une zone vous permettant de laisser un commentaire sur le contenu de la page. Si vous trouvez que quelque chose pourrait être amélioré, faites le moi savoir dans un commentaire.
 
-Si vous avez une idée de comment ce point pourrait être amélioré, ça nous intéresse aussi !
+Si vous avez une idée de comment ce point pourrait être amélioré, ça m'intéresse aussi !
 
 Vous pouvez [créer un issue sur Github](https://github.com/ColinMaudry/password-management/issues/new) ou [me contacter](https://github.com/ColinMaudry/password-management#contact).
+
+## Contribuer aux issues existants
+
+J'ai déjà créé [un bon paquet d'issues](https://github.com/ColinMaudry/password-management/issues) sur des questions que je me pose, du contenu qui doit être écrit. L'un d'entre vous inspirera peut-être !
 
 ## Faire une pull request
 
