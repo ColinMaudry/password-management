@@ -1,6 +1,6 @@
 Ce guide a pour objectif de vous accompagner dans la gestion de vos mots de passe de façon sécurisée, et que vous n'ayez plus qu'un seul mot de passe à retenir dans votre utilisation d'Internet. Ce mot de passe vous servira à accéder à tous les autres, et chaque service en ligne que vous utiliserez aura un mot de passe différent, fort, que vous n'aurez pas à retenir car il sera stockés dans un fichier sécurisé.
 
-La méthode décrite est gratuite, repose sur des outils [libres](https://fr.wikipedia.org/wiki/Logiciel_libre), et vous permettra de gérer vos mots de passe facilement, et en toute sécurité.
+La méthode décrite est gratuite, repose sur des outils [libres](https://fr.wikipedia.org/wiki/Logiciel_libre), et vous permettra de gérer vos mots de passe facilement, et en toute sécurité. Il y a de nombreuses bonnes façons de gérer ses mots de passe. Ce guide a été conçu pour les personnes qui n'ont pas de bonne méthode et souhaitent en utiliser une simple, sûre et gratuite.
 
 Enfin, cette méthode peut être utilisée indifféremment par les utilisateurs de Linux, de Windows et des appareils Apple.
 
