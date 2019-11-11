@@ -19,6 +19,6 @@ KeeWeb sélectionne automatiquement la dernière base de données qui a été ou
 
 KeeWeb ouvre votre base de mots de passe, et affiche l'interface de gestion.
 
-![Capture d'écran de Keeweb](../_media/keeweb.png)
+![Capture d'écran de KeeWeb](../_media/keeweb.png)
 
 > Dernière mise à jour de cette section : {docsify-updated}
