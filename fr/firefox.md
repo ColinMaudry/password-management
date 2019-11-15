@@ -2,9 +2,9 @@ Firefox ([mozilla.org](https://www.mozilla.org/fr/firefox/new/)) est un navigate
 
 ![Firefox lockwise](../_media/firefox.png)
 
-Aujourd'hui, tous les navigateurs Web proposent de sauvegarder vos mots de passe et de les remplir automatiquement dans les formulaires de connexion. Cette partie vous explique comment configurer Firefox.
+Aujourd'hui, tous les navigateurs Web proposent de sauvegarder vos mots de passe et de les remplir automatiquement dans les formulaires de connexion. Cette partie vous explique comment configurer Firefox, mais vous retrouverez les même fonctionnalités dans la plupart des autres navigateurs.
 
-Au final, les mots de passe de vos services en ligne seront donc sauvegardés à la fois dans votre base et dans Firefox.
+Au final, les mots de passe de vos services en ligne seront donc sauvegardés à la fois dans votre base, éditable avec KeeWeb, et dans Firefox.
 
 Nous allons donc voir comment :
 
