@@ -2,15 +2,11 @@
 - [Le mot de passe maître](fr/master-password.md)
 
 
-- KeeWeb
+- Bitwarden
+
+  - [Introduction](fr/bitwarden.md)
 
 
-
-- Firefox
-
-  - [Introduction](fr/firefox.md)
-  - [Sécuriser les mots de passe](fr/firefox-master-password.md)
-  - [Synchroniser vos Firefox](fr/firefox-sync.md)
-
+- [Guide pour KeeWeb (archivé)](fr/keeweb/keeweb.md)
 - [Foire aux questions](fr/faq.md)
 - [Contribuer à ce guide](./CONTRIBUTING.md)
