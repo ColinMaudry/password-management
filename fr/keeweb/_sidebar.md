@@ -2,7 +2,7 @@
 - [Le mot de passe maître](fr/master-password.md)
 
 
-- KeeWeb
+- **KeeWeb**
 
   - [Introduction](fr/keeweb/keeweb.md)
   - [Installer KeeWeb](fr/keeweb/keeweb-installing.md)
