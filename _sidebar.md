@@ -4,13 +4,6 @@
 
 - KeeWeb
 
-  - [Introduction](fr/keeweb.md)
-  - [Installer KeeWeb](fr/keeweb-installing.md)
-  - [Créer une nouvelle base](fr/keeweb-creating-new-database.md)
-  - [Ouvrir une base existante](fr/keeweb-opening-database.md)
-  - [Ajouter un mot de passe](fr/keeweb-adding-password.md)
-  - [Rechercher un mot de passe](fr/keeweb-searching-password.md)
-  - [Utiliser un mot de passe](fr/keeweb-using-password.md)
 
 
 - Firefox
