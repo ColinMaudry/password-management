@@ -11,6 +11,8 @@ Voici la situation dans laquelle se trouvent de nombreuses personnes et pourquoi
 
 Si vous vous retrouvez dans une ou plusieurs de ces situations, ce guide devrait vous être très utile.
 
+Je suis Colin Maudry, un informaticien soucieux de mettre fin au casse-tête que vivent ses proches.
+
 ## Aperçu de la méthode décrite dans ce guide
 
 La méthode décrite dans ce guide est
@@ -23,7 +25,6 @@ La méthode décrite dans ce guide est
 Il y a de nombreuses bonnes façons de gérer ses mots de passe. Ce guide a été conçu pour les personnes qui n'ont pas de bonne méthode et souhaitent en utiliser une qui soit simple et bien documentée.
 
 Je suis Colin Maudry, un informaticien soucieux de mettre fin au casse-tête que vivent ses proches.
-
 À titre personnel j'utilise [Bitwarden](https://bitwarden.com) après avoir utilisé [KeeWeb](https://keeweb.info) pendant des années. Aujourd'hui, je recommande Bitwarden car
 
 - c'est la méthode que j'utilise au quotidien
