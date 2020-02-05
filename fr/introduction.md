@@ -30,7 +30,7 @@ Je suis Colin Maudry, un informaticien soucieux de mettre fin au casse-tête que
 - c'est la méthode que j'utilise au quotidien
 - dont je vais suis les évolutions et pour laquelle je tiens ce guide à jour.
 
-J'ai gardé le guide de KeeWeb [ici](/fr/keeweb/keeweb).
+J'ai gardé le guide de KeeWeb [ici](/fr/keeweb/keeweb). Il peut intéresser les personnes qui ne sont pas intéressées par la synchronisation de leurs mots de passe entre leurs appareils (ordinateur, téléphone, tablette, etc.).
 
 Voici un résumé de la méthode documentée dans ce guide :
 
