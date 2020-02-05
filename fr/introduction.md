@@ -1,4 +1,4 @@
-Ce guide a pour objectif de vous accompagner dans la gestion de vos mots de passe de façon sécurisée, et que vous n'ayez plus qu'un seul mot de passe à retenir dans votre utilisation d'Internet. Ce mot de passe vous servira à accéder à tous les autres, et chaque service en ligne que vous utiliserez aura un mot de passe différent, fort, que vous n'aurez pas à retenir car il sera stockés dans un fichier sécurisé.
+Ce guide a pour objectif de vous accompagner dans la gestion de vos mots de passe de façon sécurisée, et que vous n'ayez plus qu'un seul mot de passe à retenir dans votre utilisation d'Internet. Ce mot de passe vous servira à accéder à tous les autres, et chaque service en ligne que vous utiliserez aura un mot de passe différent, fort, que vous n'aurez pas à retenir car il sera stocké dans un fichier sécurisé.
 
 ## Diagnostic
 
