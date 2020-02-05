@@ -39,7 +39,7 @@ Voici un résumé de la méthode documentée dans ce guide :
 2. En éditant cette base de données avec [Bitwarden](https://bitwarden.com) (gratuit et [libre](https://fr.wikipedia.org/wiki/Logiciel_libre)), qui vous permet de facilement gérer vos mots de passe et en créer de nouveaux
 3. En synchronisant vos mots de passe entre vos appareils
 4. En utilisant facilement vos mots de passe sur le Web grâce à l'extension pour navigateur
-4. En accédant à vos mots de passe même depuis un appareil qui n'est pas à vous
+4. En accédant à vos mots de passe même depuis un appareil qui n'est pas à vous (par exemple, l'ordinateur d'un ou d'une amie)
 
 Ce guide a été rédigé pour que vous lisiez les chapitres dans l'ordre dans lequel ils vous sont présentés dans le menu de gauche. La prochaine étape est donc de définir [votre mot de passe maître](fr/master-password.md).
 
