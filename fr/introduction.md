@@ -34,12 +34,12 @@ J'ai gardé le guide de KeeWeb [ici](/fr/keeweb/keeweb). Il peut intéresser les
 
 Voici un résumé de la méthode documentée dans ce guide :
 
-1. Définir un mot de passe différent et complexe pour chaque service (compte email, magasin en ligne, banque, etc.)
-2. Stocker vos mots de passe dans une base de données chiffrée ([voir Wikipedia](https://fr.wikipedia.org/wiki/Chiffrement)), protégée par un mot de passe fort. Ainsi, vous n'avez plus qu'un seul mot de passe à retenir !
-2. En éditant cette base de données avec [Bitwarden](https://bitwarden.com) (gratuit et [libre](https://fr.wikipedia.org/wiki/Logiciel_libre)), qui vous permet de facilement gérer vos mots de passe et en créer de nouveaux
+1. Utiliser un mot de passe différent et fort pour chaque service (compte email, magasin en ligne, banque, etc.)
+2. Stocker vos mots de passe dans une base de données chiffrée ([voir Wikipedia](https://fr.wikipedia.org/wiki/Chiffrement)), protégée par un mot de passe fort. Ainsi, vous n'avez plus qu'un seul mot de passe à retenir, celui pour ouvrir votre base de mots de passe (aussi appelé "coffre") !
+2. En éditant ce coffre avec [Bitwarden](https://bitwarden.com) (gratuit et [libre](https://fr.wikipedia.org/wiki/Logiciel_libre)), qui vous permet de facilement gérer vos mots de passe et en créer de nouveaux
 3. En synchronisant vos mots de passe entre vos appareils
 4. En utilisant facilement vos mots de passe sur le Web grâce à l'extension pour navigateur
-4. En accédant à vos mots de passe même depuis un appareil qui n'est pas à vous (par exemple, l'ordinateur d'un ou d'une amie)
+4. En accédant à votre coffre à mots de passe même depuis un appareil qui n'est pas à vous (par exemple, l'ordinateur d'un ou d'une amie)
 
 Ce guide a été rédigé pour que vous lisiez les chapitres dans l'ordre dans lequel ils vous sont présentés dans le menu de gauche. La prochaine étape est donc de définir [votre mot de passe maître](fr/master-password.md).
 
